@@ -1,3 +1,3 @@
 # hello-world
 First Repository
-Hello People! Hows things. Github Rules
+Hello People! Hows things. GitHub Rules
